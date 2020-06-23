@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "game-tips":"/components/game-tips/game-tips"
+  }
+}

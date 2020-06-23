@@ -1,0 +1,7 @@
+/**index.wxss**/
+.button {
+  position: absolute;
+  z-index: 30;
+  bottom: 0;
+  width: 100%;
+}

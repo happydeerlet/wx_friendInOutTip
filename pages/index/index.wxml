@@ -1,0 +1,5 @@
+<game-tips id="gameTips"></game-tips>
+
+<view class="button">
+	<button bindtap="addTip">弹一个弹幕</button>
+</view>
